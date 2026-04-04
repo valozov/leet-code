@@ -11,6 +11,7 @@ my solved problems from leet code
 | [0036-valid-sudoku](https://github.com/valozov/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/valozov/leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/valozov/leet-code/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/valozov/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/valozov/leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/valozov/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +59,7 @@ my solved problems from leet code
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/valozov/leet-code/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/valozov/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
@@ -172,4 +174,8 @@ my solved problems from leet code
 | [0110-balanced-binary-tree](https://github.com/valozov/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/valozov/leet-code/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/valozov/leet-code/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/valozov/leet-code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
