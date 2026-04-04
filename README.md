@@ -27,6 +27,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/valozov/leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/valozov/leet-code/tree/master/0242-valid-anagram) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/valozov/leet-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Simulation
@@ -83,4 +84,8 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/valozov/leet-code/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/valozov/leet-code/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
