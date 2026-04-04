@@ -129,4 +129,12 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/valozov/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/valozov/leet-code/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/valozov/leet-code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
