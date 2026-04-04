@@ -6,6 +6,7 @@ my solved problems from leet code
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/valozov/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/valozov/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
@@ -19,6 +20,7 @@ my solved problems from leet code
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/valozov/leet-code/tree/master/0036-valid-sudoku) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1672-richest-customer-wealth](https://github.com/valozov/leet-code/tree/master/1672-richest-customer-wealth) |
 ## String
@@ -47,6 +49,7 @@ my solved problems from leet code
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/valozov/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/valozov/leet-code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
