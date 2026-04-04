@@ -15,4 +15,12 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
+## String
+|  |
+| ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/valozov/leet-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
+## Simulation
+|  |
+| ------- |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/valozov/leet-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
