@@ -8,6 +8,7 @@ my solved problems from leet code
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1672-richest-customer-wealth](https://github.com/valozov/leet-code/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/valozov/leet-code/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -24,6 +25,7 @@ my solved problems from leet code
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/valozov/leet-code/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/valozov/leet-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/valozov/leet-code/tree/master/2169-count-operations-to-obtain-zero) |
 ## Math
