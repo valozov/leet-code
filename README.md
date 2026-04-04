@@ -32,6 +32,7 @@ my solved problems from leet code
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/valozov/leet-code/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/valozov/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/valozov/leet-code/tree/master/2169-count-operations-to-obtain-zero) |
 | [3099-harshad-number](https://github.com/valozov/leet-code/tree/master/3099-harshad-number) |
