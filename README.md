@@ -10,6 +10,7 @@ my solved problems from leet code
 | [0015-3sum](https://github.com/valozov/leet-code/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/valozov/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/valozov/leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/valozov/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/valozov/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
@@ -45,6 +46,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/valozov/leet-code/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/valozov/leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/valozov/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/valozov/leet-code/tree/master/2169-count-operations-to-obtain-zero) |
 | [3099-harshad-number](https://github.com/valozov/leet-code/tree/master/3099-harshad-number) |
@@ -105,6 +107,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/valozov/leet-code/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/valozov/leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/valozov/leet-code/tree/master/0155-min-stack) |
 ## Design
 |  |
