@@ -6,6 +6,7 @@ my solved problems from leet code
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/valozov/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/valozov/leet-code/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/valozov/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
@@ -18,6 +19,7 @@ my solved problems from leet code
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/valozov/leet-code/tree/master/0011-container-with-most-water) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Matrix
 |  |
@@ -90,6 +92,7 @@ my solved problems from leet code
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/valozov/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/valozov/leet-code/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/valozov/leet-code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/valozov/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
