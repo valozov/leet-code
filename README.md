@@ -21,6 +21,7 @@ my solved problems from leet code
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/valozov/leet-code/tree/master/0242-valid-anagram) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/valozov/leet-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
@@ -38,4 +39,12 @@ my solved problems from leet code
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/valozov/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/valozov/leet-code/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/valozov/leet-code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
