@@ -105,4 +105,9 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/valozov/leet-code/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/valozov/leet-code/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/valozov/leet-code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
