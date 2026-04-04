@@ -12,6 +12,7 @@ my solved problems from leet code
 | [0039-combination-sum](https://github.com/valozov/leet-code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/valozov/leet-code/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/valozov/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/valozov/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/valozov/leet-code/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/valozov/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/valozov/leet-code/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/valozov/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/valozov/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1672-richest-customer-wealth](https://github.com/valozov/leet-code/tree/master/1672-richest-customer-wealth) |
@@ -69,6 +71,7 @@ my solved problems from leet code
 | [0003-longest-substring-without-repeating-characters](https://github.com/valozov/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/valozov/leet-code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/valozov/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/valozov/leet-code/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/valozov/leet-code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
