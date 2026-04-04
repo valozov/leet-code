@@ -7,6 +7,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1672-richest-customer-wealth](https://github.com/valozov/leet-code/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
@@ -15,6 +16,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1672-richest-customer-wealth](https://github.com/valozov/leet-code/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
