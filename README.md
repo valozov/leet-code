@@ -7,6 +7,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/valozov/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1672-richest-customer-wealth](https://github.com/valozov/leet-code/tree/master/1672-richest-customer-wealth) |
@@ -75,4 +76,8 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/valozov/leet-code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
