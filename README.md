@@ -23,4 +23,8 @@ my solved problems from leet code
 |  |
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/valozov/leet-code/tree/master/1945-sum-of-digits-of-string-after-convert) |
+## Math
+|  |
+| ------- |
+| [3099-harshad-number](https://github.com/valozov/leet-code/tree/master/3099-harshad-number) |
 <!---LeetCode Topics End-->
