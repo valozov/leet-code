@@ -154,6 +154,7 @@ my solved problems from leet code
 | [0110-balanced-binary-tree](https://github.com/valozov/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/valozov/leet-code/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/valozov/leet-code/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/valozov/leet-code/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ my solved problems from leet code
 | [0110-balanced-binary-tree](https://github.com/valozov/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/valozov/leet-code/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/valozov/leet-code/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/valozov/leet-code/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -176,10 +178,19 @@ my solved problems from leet code
 | [0110-balanced-binary-tree](https://github.com/valozov/leet-code/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/valozov/leet-code/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/valozov/leet-code/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/valozov/leet-code/tree/master/0572-subtree-of-another-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/valozov/leet-code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/valozov/leet-code/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/valozov/leet-code/tree/master/0078-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/valozov/leet-code/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/valozov/leet-code/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
