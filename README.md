@@ -57,6 +57,7 @@ my solved problems from leet code
 | ------- |
 | [0009-palindrome-number](https://github.com/valozov/leet-code/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/valozov/leet-code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/valozov/leet-code/tree/master/0202-happy-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/valozov/leet-code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/valozov/leet-code/tree/master/2169-count-operations-to-obtain-zero) |
 | [3099-harshad-number](https://github.com/valozov/leet-code/tree/master/3099-harshad-number) |
@@ -73,6 +74,7 @@ my solved problems from leet code
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/valozov/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/valozov/leet-code/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/valozov/leet-code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/valozov/leet-code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -114,6 +116,7 @@ my solved problems from leet code
 | [0125-valid-palindrome](https://github.com/valozov/leet-code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/valozov/leet-code/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/valozov/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/valozov/leet-code/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
