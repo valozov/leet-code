@@ -22,6 +22,7 @@ my solved problems from leet code
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/valozov/leet-code/tree/master/0704-binary-search) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1046-last-stone-weight](https://github.com/valozov/leet-code/tree/master/1046-last-stone-weight) |
 | [1672-richest-customer-wealth](https://github.com/valozov/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/valozov/leet-code/tree/master/1929-concatenation-of-array) |
 ## Greedy
@@ -96,6 +97,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/valozov/leet-code/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
