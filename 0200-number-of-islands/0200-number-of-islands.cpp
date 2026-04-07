@@ -16,7 +16,7 @@ public:
                 if (grid[i][j] == '1'){
                     check(grid, i, j);
                     ++ans;
-                    }
+                }
             }
         }
         return ans;
