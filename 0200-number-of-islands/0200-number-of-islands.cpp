@@ -1,13 +1,16 @@
 class Solution {
 public:
-    void check(vector<vector<char>>& grid, int i, int j) {
-        if (i<0 || j<0 || i >= grid.size() || j >= grid[0].size() || grid[i][j] == '0') return;
-        
-        grid[i][j] = '0';
-        check(grid, i, j + 1);
-        check(grid, i, j - 1);
-        check(grid, i + 1, j);
-        check(grid, i - 1, j);
+    bool check(vector<vector<char>>& grid, int i, int j) {
+        if (i<0 || j<0 || i >= grid.size() || j >= grid[0].size()) return false;
+        else if (grid[i][j] == '1') {
+            grid[i][j] = '0';
+            check(grid, i, j + 1);
+            check(grid, i, j - 1);
+            check(grid, i + 1, j);
+            check(grid, i - 1, j);
+            return true;
+        }
+        return false;
     }
     int numIslands(vector<vector<char>>& grid) {
         int ans = 0;
@@ -16,7 +19,7 @@ public:
                 if (grid[i][j] == '1'){
                     check(grid, i, j);
                     ++ans;
-                }
+                    }
             }
         }
         return ans;
