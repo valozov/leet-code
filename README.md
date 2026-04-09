@@ -13,6 +13,7 @@ my solved problems from leet code
 | [0040-combination-sum-ii](https://github.com/valozov/leet-code/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/valozov/leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/valozov/leet-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/valozov/leet-code/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/valozov/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/valozov/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/valozov/leet-code/tree/master/0078-subsets) |
@@ -32,6 +33,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/valozov/leet-code/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/valozov/leet-code/tree/master/0055-jump-game) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/valozov/leet-code/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Matrix
 |  |
@@ -150,6 +152,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/valozov/leet-code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/valozov/leet-code/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/valozov/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
