@@ -27,6 +27,7 @@ my solved problems from leet code
 | [1046-last-stone-weight](https://github.com/valozov/leet-code/tree/master/1046-last-stone-weight) |
 | [1672-richest-customer-wealth](https://github.com/valozov/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/valozov/leet-code/tree/master/1929-concatenation-of-array) |
+| [3866-first-unique-even-element](https://github.com/valozov/leet-code/tree/master/3866-first-unique-even-element) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +86,7 @@ my solved problems from leet code
 | [0202-happy-number](https://github.com/valozov/leet-code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/valozov/leet-code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [3866-first-unique-even-element](https://github.com/valozov/leet-code/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +112,7 @@ my solved problems from leet code
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/valozov/leet-code/tree/master/0347-top-k-frequent-elements) |
+| [3866-first-unique-even-element](https://github.com/valozov/leet-code/tree/master/3866-first-unique-even-element) |
 ## Quickselect
 |  |
 | ------- |
